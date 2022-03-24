@@ -15,7 +15,8 @@ public class HelloTong {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello Word 555");
+        System.out.println("Hello Word");
+        System.out.println("Love you");
     }
     
 }
