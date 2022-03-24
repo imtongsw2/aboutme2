@@ -17,6 +17,8 @@ public class HelloTong {
     public static void main(String[] args) {
         System.out.println("Hello Word");
         System.out.println("Love you");
+        System.out.println("CAT");
+        System.out.println("DOG");
     }
     
 }
