@@ -1,0 +1,6 @@
+print('Hello Maruko')
+print('Welcome To ASCII ART')
+print('Welcome To ASCII ART')
+print('Welcome To ASCII ART')
+print('Welcome To ASCII ART')
+print('Welcome To ASCII ART')
