@@ -1,3 +1,5 @@
 print('Hello Maruko')
 print('Welcome To ASCII ART')
-print('1111')
+print('Im am Tong')
+print('Im a progarmmer')
+print('Im a cooker')
