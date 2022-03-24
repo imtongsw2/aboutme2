@@ -15,12 +15,7 @@ public class HelloTong {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-<<<<<<< HEAD
         System.out.println("Hello Word 555");
-=======
-        System.out.println("Hello Word");
-        System.out.println("Love you");
->>>>>>> parent of 9189606 (cat and dog)
     }
     
 }
